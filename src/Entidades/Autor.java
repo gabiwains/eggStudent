@@ -13,6 +13,7 @@ public class Autor implements Serializable  {
     private Integer id;
     private String nombre;
     private boolean alta;
+    private String hola;
 
     public Autor() {
     }
