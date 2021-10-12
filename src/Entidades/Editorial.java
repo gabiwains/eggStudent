@@ -9,6 +9,7 @@ public class Editorial {
     private Integer id;
     private String nombre;
     private boolean alta;
+    private int numero;
 
     public Editorial() {
     }
